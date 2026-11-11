@@ -1,129 +1,156 @@
-<!-- Animated banner -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00d4ff&height=240&section=header&text=Tejash%20Kumar%20Luhar&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Web%20Developer%20%7C%20Builder%20%7C%20Always%20Learning&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=250&section=header&text=Tejash%20Kumar%20Luhar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=64&descSize=20" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/TejashMalviya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+Nice+to+Meet+You+!!;Turning+ideas+into+websites;HTML+%7C+CSS+%7C+JavaScript;Based+in+Vadodara%2C+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Building+full-stack+web+apps;Designing+microservices+%26+REST+APIs;Creating+AI+apps+with+RAG+%26+vector+search;Based+in+Vadodara%2C+India" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejashMalviya&label=Profile%20views&color=00d4ff&style=for-the-badge" />
-</p>
-
----
-
-## Hello, Nice to Meet You !! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
-
-```text
-████████╗███████╗     ██╗ █████╗ ███████╗██╗  ██╗
-╚══██╔══╝██╔════╝     ██║██╔══██╗██╔════╝██║  ██║
-   ██║   █████╗       ██║███████║███████╗███████║
-   ██║   ██╔══╝  ██   ██║██╔══██║╚════██║██╔══██║
-   ██║   ███████╗╚█████╔╝██║  ██║███████║██║  ██║
-   ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
-
-<p align="center">
-  <img src="https://octodex.github.com/images/codercat.jpg" width="300" alt="Octocat" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> About me, as code
-
-```javascript
-const tejash = {
-  name: "Tejash Kumar Luhar",
-  pronouns: "he/him",
-  location: "Vadodara, India",
-  role: "Aspiring Full-Stack Developer",
-  currentlyBuilding: ["sharehub", "mentorconnect"],
-  currentlyLearning: ["React", "Node.js", "Git & GitHub workflows"],
-  funFact: "I debug with chai and stubbornness",
-  lookingFor: "Projects to collaborate on and people to learn from",
-
-  getMotto() {
-    return "Build it. Break it. Fix it. Repeat.";
-  },
-};
-```
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> What I'm up to
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" /> Building: **sharehub** and **mentorconnect**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="22" /> Learning: **React** and **Node.js**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="22" /> Open to: **collaborations**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="22" /> Goal: **become a full-stack developer**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="22" /> Fuel: **chai**
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="Sparkles" width="30" /> Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured projects
-
-| Project | What it is | Tech |
-|---|---|---|
-| [**sharehub**](https://github.com/TejashMalviya/sharehub) | Share and discover resources in one place | JavaScript |
-| [**NoteMates5.1**](https://github.com/TejashMalviya/NoteMates5.1) | A notes app built for students | CSS |
-| [**mentorconnect**](https://github.com/TejashMalviya/mentorconnect) | Connecting mentors with learners | HTML |
-| [**Error-club**](https://github.com/TejashMalviya/Error-club) | A community around learning from errors | HTML |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejashMalviya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejashMalviya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=TejashMalviya&label=Profile%20views&color=6a2cff&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejashMalviya&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejashMalviya&theme=react-dark&hide_border=true&bg_color=0d1117" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejashMalviya&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/TejashMalviya/TejashMalviya/main/assets/github_gif.gif" alt="Pixel art room" width="100%" />
 </p>
 
 ---
 
-## Contribution snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> About Me
+
+I'm a Computer Science undergraduate at **Parul University** (B.Tech, 2023 – 2027, CGPA 8.2/10) with hands-on experience building **full-stack, real-time, microservices and AI-powered applications**.
+
+I like working on production-style systems: Retrieval-Augmented Generation (RAG), vector search, API gateways, authentication and real-time communication.
+
+📍 Vadodara, Gujarat, India
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="32" /> Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TejashMalviya/TejashMalviya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwind,nodejs,express,mongodb,postgres,redis,supabase,git,github,postman,vscode&perline=9&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-ff2bd6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-6a2cff?style=for-the-badge" />
+</p>
+
+| | |
+|---|---|
+| **Languages** | Java, JavaScript, TypeScript, Python, HTML, CSS |
+| **Frontend** | React.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, Socket.IO, Microservices |
+| **Databases** | MongoDB, PostgreSQL, PGVector, Redis, Supabase |
+| **AI / LLM** | RAG, LangChain, Google Gemini API, Embeddings, Vector Search |
+| **Tools** | Git, GitHub, Postman, VS Code |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 XLR8
+**AI-Powered Document Chat Platform**
+
+`Node.js` `Express.js` `MongoDB` `PostgreSQL` `PGVector` `Redis` `LangChain`
+
+- Microservices (User, Upload, Chat, Message) behind a central **API Gateway**
+- **RAG pipeline** using LangChain and Gemini embeddings, with vectors stored in PGVector
+- Document chunks combined with chat history for grounded AI answers
+- Centralized **JWT auth** with HTTP-only cookies across services
+- Token-level **SSE streaming**, Redis caching and Cloudinary storage
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Orynto
+**Real-Time Collaborative Code Editor**
+
+`React.js` `TypeScript` `Node.js` `Express.js` `Socket.IO`
+
+- Room-based multi-user sessions with synced multi-file editing
+- File/folder management, syntax highlighting, language detection, **code execution**, autocomplete, themes and ZIP export
+- Presence tracking, group chat, live selections and active-editor visibility
+- **AI coding assistant** (insert / copy / replace) and a shared drawing workspace
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎬 StreamNest
+**Scalable Video Sharing Platform**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+- Authentication, channels, video uploads, playlists, subscriptions, watch history, comments, likes and profiles
+- REST APIs with **JWT**, role-based authorization, validation and MVC architecture
+- Faster queries using **MongoDB aggregation pipelines**, pagination and indexing
+- Cloudinary media pipeline with automatic optimization
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/TejashMalviya?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-ff2bd6?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Mail" width="30" /> Let's connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" /> Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-62d84e?style=for-the-badge&logo=servicenow&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-62d84e?style=for-the-badge&logo=servicenow&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Oracle%202025-AI%20Vector%20Search%20Certified%20Professional-f80000?style=for-the-badge&logo=oracle&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft%202025-Azure%20AI%20Fundamentals%20(AI--900)-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejashMalviya&show_icons=true&theme=synthwave&hide_border=true&bg_color=0b1020" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejashMalviya&layout=compact&theme=synthwave&hide_border=true&bg_color=0b1020" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejashMalviya&theme=synthwave&hide_border=true&background=0b1020" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejashMalviya&theme=tokyo-night&hide_border=true&bg_color=0b1020&color=ff2bd6&line=00d4ff&point=ffffff" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TejashMalviya/TejashMalviya/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" /> Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/TejashMalviya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:tejash.kumar.luhar.22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+together" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2c5364,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6a2cff,100:ff2bd6&height=130&section=footer" />
 </p>
