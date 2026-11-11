@@ -1,35 +1,30 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=250&section=header&text=Tejash%20Kumar%20Luhar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=64&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=260&section=header&text=Tejash%20Kumar%20Luhar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=64&descSize=22" />
 </p>
 
 <p align="center">
   <a href="https://github.com/TejashMalviya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Building+full-stack+web+apps;Designing+microservices+%26+REST+APIs;Creating+AI+apps+with+RAG+%26+vector+search;Based+in+Vadodara%2C+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&height=40&lines=Building+full-stack+web+apps;Designing+microservices+%26+REST+APIs;Creating+AI+apps+with+RAG+%26+vector+search;Real-time+collaboration+with+Socket.IO" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejashMalviya&label=Profile%20views&color=6a2cff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Vadodara-India-ff2bd6?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-Parul%20University-6a2cff?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/CGPA-8.2%20%2F%2010-00d4ff?style=for-the-badge&labelColor=0b1020" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-a3ff12?style=for-the-badge&labelColor=0b1020" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TejashMalviya/TejashMalviya/main/assets/github_gif.gif" alt="Pixel art room" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=3&section=header" width="100%" />
 
----
+## 👋 About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> About Me
+I'm a Computer Science undergraduate with hands-on experience building **full-stack, real-time, microservices and AI-powered applications**. I enjoy production-style systems: Retrieval-Augmented Generation (RAG), vector search, API gateways, authentication and real-time communication.
 
-I'm a Computer Science undergraduate at **Parul University** (B.Tech, 2023 – 2027, CGPA 8.2/10) with hands-on experience building **full-stack, real-time, microservices and AI-powered applications**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=3&section=header" width="100%" />
 
-I like working on production-style systems: Retrieval-Augmented Generation (RAG), vector search, API gateways, authentication and real-time communication.
-
-📍 Vadodara, Gujarat, India
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" /> Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwind,nodejs,express,mongodb,postgres,redis,supabase,git,github,postman,vscode&perline=9&theme=dark" />
@@ -44,105 +39,110 @@ I like working on production-style systems: Retrieval-Augmented Generation (RAG)
   <img src="https://img.shields.io/badge/Microservices-6a2cff?style=for-the-badge" />
 </p>
 
-| | |
-|---|---|
-| **Languages** | Java, JavaScript, TypeScript, Python, HTML, CSS |
-| **Frontend** | React.js, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs, Socket.IO, Microservices |
-| **Databases** | MongoDB, PostgreSQL, PGVector, Redis, Supabase |
-| **AI / LLM** | RAG, LangChain, Google Gemini API, Embeddings, Vector Search |
-| **Tools** | Git, GitHub, Postman, VS Code |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 XLR8
-**AI-Powered Document Chat Platform**
-
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `PGVector` `Redis` `LangChain`
-
-- Microservices (User, Upload, Chat, Message) behind a central **API Gateway**
-- **RAG pipeline** using LangChain and Gemini embeddings, with vectors stored in PGVector
-- Document chunks combined with chat history for grounded AI answers
-- Centralized **JWT auth** with HTTP-only cookies across services
-- Token-level **SSE streaming**, Redis caching and Cloudinary storage
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Orynto
-**Real-Time Collaborative Code Editor**
-
-`React.js` `TypeScript` `Node.js` `Express.js` `Socket.IO`
-
-- Room-based multi-user sessions with synced multi-file editing
-- File/folder management, syntax highlighting, language detection, **code execution**, autocomplete, themes and ZIP export
-- Presence tracking, group chat, live selections and active-editor visibility
-- **AI coding assistant** (insert / copy / replace) and a shared drawing workspace
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎬 StreamNest
-**Scalable Video Sharing Platform**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary`
-
-- Authentication, channels, video uploads, playlists, subscriptions, watch history, comments, likes and profiles
-- REST APIs with **JWT**, role-based authorization, validation and MVC architecture
-- Faster queries using **MongoDB aggregation pipelines**, pagination and indexing
-- Cloudinary media pipeline with automatic optimization
-
-</td>
-</tr>
+<table align="center">
+<tr><td><b>💻 Languages</b></td><td>Java · JavaScript · TypeScript · Python · HTML · CSS</td></tr>
+<tr><td><b>🎨 Frontend</b></td><td>React.js · Tailwind CSS</td></tr>
+<tr><td><b>⚙️ Backend</b></td><td>Node.js · Express.js · REST APIs · Socket.IO · Microservices</td></tr>
+<tr><td><b>🗄️ Databases</b></td><td>MongoDB · PostgreSQL · PGVector · Redis · Supabase</td></tr>
+<tr><td><b>🤖 AI / LLM</b></td><td>RAG · LangChain · Google Gemini API · Embeddings · Vector Search</td></tr>
+<tr><td><b>🧰 Tools</b></td><td>Git · GitHub · Postman · VS Code</td></tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=3&section=header" width="100%" />
+
+## 🚀 Featured Projects
+
+### 🧠 XLR8: AI-Powered Document Chat Platform
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+- Microservices (**User, Upload, Chat, Message**) behind a centralized **API Gateway**
+- **RAG pipeline**: LangChain + Gemini embeddings, vectors stored in PostgreSQL with PGVector
+- Combines retrieved document chunks with conversation history for grounded AI answers
+- Centralized **JWT authentication** with HTTP-only cookies and user-context propagation
+- Token-level **SSE streaming**, Redis caching, Cloudinary file storage, MongoDB persistence
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#6a2cff','primaryTextColor':'#ffffff','lineColor':'#00d4ff','primaryBorderColor':'#ff2bd6'}}}%%
+flowchart LR
+    C([Client]) --> G{API Gateway<br/>JWT Auth}
+    G --> U[User Service]
+    G --> UP[Upload Service]
+    G --> CH[Chat Service]
+    G --> M[Message Service]
+    UP --> E[LangChain +<br/>Gemini Embeddings]
+    E --> V[(PostgreSQL<br/>PGVector)]
+    CH --> V
+    CH --> R[(Redis)]
+    CH -. SSE stream .-> C
+    M --> DB[(MongoDB)]
+    UP --> CL[(Cloudinary)]
+```
+
+<br/>
+
+### ⚡ Orynto: Real-Time Collaborative Code Editor
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+- Room-based multi-user sessions with synchronized code updates across multiple files
+- File/folder management, syntax highlighting, language detection, **code execution**, autocomplete, themes and ZIP download
+- Presence tracking, group chat, join/leave notifications, live selections and active-editor visibility
+- **AI coding assistant** (insert / copy / replace) and a collaborative real-time drawing workspace
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#6a2cff','primaryTextColor':'#ffffff','lineColor':'#00d4ff','primaryBorderColor':'#ff2bd6'}}}%%
+flowchart LR
+    A([User A]) <--> S{Socket.IO<br/>Server}
+    B([User B]) <--> S
+    D([User C]) <--> S
+    S --> R[Room State<br/>Files + Code]
+    S --> P[Presence + Chat]
+    S --> AI[AI Assistant]
+```
+
+<br/>
+
+### 🎬 StreamNest: Scalable Video Sharing Platform
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+- Secure auth, channels, video uploads, playlists, subscriptions, watch history, comments, likes and profiles
+- REST APIs with **JWT**, role-based authorization, input validation and MVC architecture
+- Faster queries with **MongoDB aggregation pipelines**, pagination, indexing and search
+- Cloudinary pipeline for secure uploads, automatic optimization and reliable delivery
+
 <p align="center">
-  <a href="https://github.com/TejashMalviya?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-ff2bd6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/TejashMalviya?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-ff2bd6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1020" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=3&section=header" width="100%" />
 
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-62d84e?style=for-the-badge&logo=servicenow&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-62d84e?style=for-the-badge&logo=servicenow&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Oracle%202025-AI%20Vector%20Search%20Certified%20Professional-f80000?style=for-the-badge&logo=oracle&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Microsoft%202025-Azure%20AI%20Fundamentals%20(AI--900)-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-62d84e?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=0b1020" /><br/>
+  <img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-62d84e?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=0b1020" /><br/>
+  <img src="https://img.shields.io/badge/Oracle%202025-AI%20Vector%20Search%20Certified%20Professional-f80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0b1020" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft%202025-Azure%20AI%20Fundamentals%20(AI--900)-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0b1020" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2bd6,50:6a2cff,100:00d4ff&height=3&section=header" width="100%" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejashMalviya&show_icons=true&theme=synthwave&hide_border=true&bg_color=0b1020" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejashMalviya&layout=compact&theme=synthwave&hide_border=true&bg_color=0b1020" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TejashMalviya&theme=synthwave&hide_border=true&background=0b1020" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejashMalviya&theme=tokyo-night&hide_border=true&bg_color=0b1020&color=ff2bd6&line=00d4ff&point=ffffff" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TejashMalviya/TejashMalviya/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" /> Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -152,5 +152,9 @@ I like working on production-style systems: Retrieval-Augmented Generation (RAG)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6a2cff,100:ff2bd6&height=130&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=FF2BD6&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by!;Let's+build+something+great+together" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6a2cff,100:ff2bd6&height=140&section=footer" />
 </p>
