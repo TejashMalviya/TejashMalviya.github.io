@@ -1,91 +1,79 @@
-<!-- PROFILE README -->
+<div align="center">
+
+<!-- Anime Header GIF -->
+<img src="https://i.pinimg.com/originals/e8/35/fd/e835fd4dceb0cdd95ccfefdf02ba2d00.gif" width="100%" alt="Cyberpunk Anime Header"/>
+
+<!-- Typing Effect with Neon/Cyberpunk Colors -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Dattebayo!+I'm+Tejash+Malviya.;Full-Stack+Shinobi+%7C+Backend+%26+Cloud;Crafting+Cyberpunk+UIs+%26+Microservices;Mastering+Data+Structures+in+Java" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:06b6d4&height=220&section=header&text=Tejash%20Kumar%20Luhar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20developer%20%7C%20Builder%20%7C%20Lifelong%20learner&descAlignY=60&descSize=17&animation=fadeIn" alt="Tejash Kumar Luhar banner" />
+  Computer Science undergraduate with hands-on experience building full-stack, real-time, microservices, and AI-powered applications[cite: 1]. Training to conquer the Grand Line of software engineering! ⚔️
 </p>
 
-<p align="center">
-  <a href="https://github.com/TejashMalviya"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TejashMalviya&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/tejash-kumar-luhar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tejash.kumar.luhar.22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/tejashmalviya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Turning+ideas+into+useful+web+experiences;Learning+full-stack+development+one+project+at+a+time;Based+in+Vadodara%2C+India" alt="Typing introduction" />
-</p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="divider"/>
+</div>
 
-## 👋 About me
+## 📜 Shinobi Scroll (About Me)
 
-I'm **Tejash**, an aspiring full-stack developer who enjoys turning simple ideas into clean, practical web projects. I care about thoughtful interfaces, steady learning, and building things that are genuinely useful.
+- 🎓 **Current Training Ground:** Bachelor of Technology in Computer Science at Parul University (CGPA: 8.2/10)[cite: 1].
+- 💻 **Tech Arsenal:** Skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, and Socket.IO[cite: 1].
+- ☁️ **Cloud & AI Masteries:** Experienced with RAG, LangChain, Google Gemini API, Embeddings, and Vector Search[cite: 1]. 
+- 🏆 **Badges of Honor:** Certified System Administrator (CSA) - ServiceNow, Oracle AI Vector Search Certified Professional, and Microsoft Azure AI Fundamentals (AI-900)[cite: 1].
 
-- 📍 Based in **Vadodara, India**
-- 🚀 Building **sharehub** and **mentorconnect**
-- 📚 Learning **React, Node.js, and Git workflows**
-- 🤝 Open to collaboration, feedback, and new ideas
-- ☕ Debugging powered by chai
+<br/>
 
-> **Build it. Break it. Fix it. Repeat.**
+## ⚔️ Tech Arsenal
 
-## 🧰 Toolkit
+<div align="center">
+  <!-- Skill Icons with glassmorphic/dark theme compatibility -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" />
+    <br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,postgres,redis,supabase&theme=dark" />
+    <br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,azure&theme=dark" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma&perline=9" alt="Technology icons" />
-</p>
+<br/>
 
-## ✨ Featured projects
+## 🚀 S-Rank Missions (Projects)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔗 <a href="https://github.com/TejashMalviya/sharehub">sharehub</a></h3>
-      <p>A place to share and discover useful resources in one community-driven space.</p>
-      <sub>JavaScript · In progress</sub>
-    </td>
-    <td width="50%">
-      <h3>📝 <a href="https://github.com/TejashMalviya/NoteMates5.1">NoteMates5.1</a></h3>
-      <p>A simple notes experience designed to help students organize their learning.</p>
-      <sub>CSS · Student-focused</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤝 <a href="https://github.com/TejashMalviya/mentorconnect">mentorconnect</a></h3>
-      <p>A project focused on bringing mentors and learners closer together.</p>
-      <sub>HTML · Learning project</sub>
-    </td>
-    <td width="50%">
-      <h3>🧪 <a href="https://github.com/TejashMalviya/Error-club">Error-club</a></h3>
-      <p>A learning community built around sharing mistakes, solutions, and growth.</p>
-      <sub>HTML · Community concept</sub>
-    </td>
-  </tr>
-</table>
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[XLR8](https://github.com/tejashmalviya)** <br/> *AI-Powered Document Chat Platform*[cite: 1] | Architected a microservices-based RAG platform with independent User, Upload, Chat, and Message services behind a centralized API Gateway[cite: 1]. Implemented token-level AI response streaming using Server-Sent Events (SSE)[cite: 1]. | `Node.js` `PostgreSQL` `PGVector` `Redis` `LangChain`[cite: 1] |
+| **[Orynto](https://github.com/tejashmalviya)** <br/> *Real-Time Collaborative Code Editor*[cite: 1] | Built a real-time collaborative code editor supporting room-based multi-user sessions and synchronized code updates across multiple files using Socket.IO[cite: 1]. Integrated an AI-powered coding assistant[cite: 1]. | `React.js` `TypeScript` `Express.js` `Socket.IO`[cite: 1] |
+| **[StreamNest](https://github.com/tejashmalviya)** <br/> *Scalable Video Sharing Platform*[cite: 1] | Developed a full-stack video sharing platform featuring secure user authentication, channel management, video uploads, and personalized user profiles[cite: 1]. Optimized backend performance using MongoDB aggregation pipelines[cite: 1]. | `React.js` `Node.js` `MongoDB` `Cloudinary`[cite: 1] |
 
-## 📊 GitHub at a glance
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TejashMalviya&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&icon_color=06b6d4&text_color=64748b&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejashMalviya&layout=compact&hide_border=true&theme=transparent&title_color=06b6d4&text_color=64748b" alt="Top languages" />
-</p>
+## 📊 GitHub Battle Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejashMalviya&hide_border=true&background=ffffff00&ring=06b6d4&fire=f97316&currStreakLabel=06b6d4&sideLabels=64748b&dates=94a3b8" alt="GitHub contribution streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejashmalviya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejashmalviya&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%"/>
+</div>
 
-## 🌱 What I'm working toward
+<br/>
 
-```text
-Frontend craft       ███████████████░░░░░  Growing
-JavaScript           █████████████░░░░░░░  Practicing
-React                ████████░░░░░░░░░░░░  Learning
-Node.js              ██████░░░░░░░░░░░░░░  Exploring
-Open-source          ███████░░░░░░░░░░░░░  Starting
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejashmalviya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="50%"/>
+</div>
 
-<p align="center">
-  <b>Have an idea, feedback, or a project to build?</b><br />
-  <a href="https://github.com/TejashMalviya">Let's connect on GitHub →</a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:164e63,100:0f172a&height=110&section=footer" alt="Footer" />
-</p>
+<!-- Footer Anime GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" alt="Naruto Waving"/>
+  <p><i>"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"</i></p>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="divider"/>
+</div>
